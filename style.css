@@ -1,0 +1,31 @@
+span{
+    font-family: 'Pacifico', cursive;
+}
+.full{
+    height: 100vh;
+}
+ .navbar-brand
+ {
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+ }
+ .ray{
+     font-family: 'Sacramento', cursive;
+ }
+ .display-3
+ {
+     font-family:'Pacifico',cursive;
+ }
+ .btn
+ {
+     border-radius: 20px;
+ }
+ ul li:hover{
+     background-color: #0d6efd;
+     border-radius: 40px;
+    
+ }
+ .navbar-brand:hover{
+     background-color: #0d6efd;
+     border-radius: 20px;
+ }
